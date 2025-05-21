@@ -14,7 +14,6 @@ Welcome to the repository for Week 3 of our Java learning journey. This week foc
   - [Day 6: Set Interface - HashSet, LinkedHashSet, TreeSet](#day-6-set-interface---hashset-linkedhashset-treeset)
 - [Prerequisites](#prerequisites)
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Next Steps](#next-steps)
 
 ## Overview
 
@@ -38,3 +37,24 @@ This week covered how to handle runtime errors gracefully using exceptions and e
 - Use of `throw` and `throws`
 
 ### Day 4: Introduction to Collections
+- Why use collections?
+- Collection hierarchy
+- Generics in collections
+
+### Day 5: List Interface - ArrayList and LinkedList
+- Creating and modifying lists
+- Iterating through lists
+- Difference between `ArrayList` and `LinkedList`
+
+### Day 6: Set Interface - HashSet, LinkedHashSet, TreeSet
+- Uniqueness in sets
+- Ordering and performance comparison
+- Working with custom objects in sets
+
+## Prerequisites
+- JDK installed
+- IDE (e.g., IntelliJ, Eclipse, VS Code)
+- Basic knowledge of OOP and Java syntax (Weeks 1 & 2)
+
+## How to Use This Repository
+Each folder corresponds to a day’s topic and contains sample code and practice problems. Review and run the examples to solidify your understanding.
